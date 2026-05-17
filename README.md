@@ -1,0 +1,1 @@
+# SwingWordCharacterCounter
